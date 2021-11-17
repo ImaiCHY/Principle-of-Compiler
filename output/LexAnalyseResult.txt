@@ -1,0 +1,13 @@
+单词序号	单词的值		单词类型		单词所在行 	单词是否合法
+1	viod		标志符		1	true
+2	main		关键字		1	true
+3	(		界符		1	true
+4	)		界符		1	true
+5	{		界符		1	true
+6	a		标志符		2	true
+7	=		运算符		2	true
+8	1		整形常量		2	true
+9	;		界符		2	true
+10	}		界符		3	true
+11	#		结束符		4	true
+词法分析通过
